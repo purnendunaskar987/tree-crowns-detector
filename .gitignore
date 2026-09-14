@@ -1,0 +1,4 @@
+tree_env/
+temp_image.*
+temp_url_image.jpg
+__pycache__/
